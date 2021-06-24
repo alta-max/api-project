@@ -10,6 +10,6 @@
 
 ```
 
-#### SITE
+#### SITE URL
 
 https://musing-saha-d3e527.netlify.app/
